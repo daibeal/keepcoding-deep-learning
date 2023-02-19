@@ -13,7 +13,7 @@ The project has been developed on Google Collab. Please **click on the link belo
 # 📊 [Google Collab - Análisis Descriptivo](https://colab.research.google.com/drive/1JAEQHRfSP0mBRBlVYRsNhSuMVoN-KDx2?usp=sharing)
 # 🌍 [Web App](http://deep-learning.herokuapp.com)
 
-Nota: El deployment web no está terminado, la página de análisis tarda un poco en cargar, se podría mejorar con lazy loading o talvez paginación.
+Nota: El deployment web no está terminado, la página de análisis tarda un poco en cargar, se podría mejorar con lazy loading o tal vez paginación.
 El deployment del modelo está conectado a otro endpoint, pero no es del todo preciso.
 
 
